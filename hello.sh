@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "hello there from jenkiiinss!!!"
-echo "hiii"
+echo "we are good"
